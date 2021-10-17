@@ -16,6 +16,7 @@ Managed with Chezmoi
 * newsboat
 * qutebrowser
 * i3-swallow
+* [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
 
 ## Deployment Steps:
 
