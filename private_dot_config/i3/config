@@ -202,7 +202,7 @@ gaps outer 6
 
 # set wallpaper
 
-exec feh ---bg-fill --randomize ~/Pictures/wallpapers/*
+exec wal -i ~/Pictures/wallpaper.*
 
 # set colours from xresources
 
