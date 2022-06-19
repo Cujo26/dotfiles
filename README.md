@@ -8,7 +8,10 @@ Managed with Chezmoi
 
 * Vim
 * Zsh
-* Sway (WIP)
+* Sway (Deprecated)
+* i3-gaps
+* pywal
+* feh
 * Mpv
 * Alacritty
 * brightnessctl
